@@ -11,12 +11,12 @@ This project simulates fluid flow within a two-dimensional heat exchanger using 
 ## Sections
 
 1. [Baseline Simulation with Second‑Order Adams–Bashforth](./1%20Baseline%20Simulation%20with%20Second-Order%20Adams-Bashforth/)  
-2. [2 Stability Analysis with Increased CFL](./Stability%20Analysis%20with%20Increased%20CFL/)  
-3. [3 Implementing a Third‑Order Runge–Kutta Scheme](./Implementing%20a%20Third-Order%20Runge-Kutta%20Scheme/)  
-4. [4 Implementing Fourth‑Order Centered Differences](./Implementing%20Fourth-Order%20Centered%20Differences/)  
-5. [5 Long‑Term Flow Behavior Analysis](./Long-Term%20Flow%20Behavior%20Analysis/)  
-6. [6 Reverse Flow Direction Simulation](./Reverse%20Flow%20Direction%20Simulation/)  
-7. [7 Simulation of a Single Cylinder with Inflow/Outflow Boundary Conditions](./Simulation%20of%20a%20Single%20Cylinder%20with%20Inflow-Outflow%20Boundary%20Conditions/)  
+2. [Stability Analysis with Increased CFL](./2%20Stability%20Analysis%20with%20Increased%20CFL/)  
+3. [Implementing a Third‑Order Runge–Kutta Scheme](./3%20Implementing%20a%20Third-Order%20Runge-Kutta%20Scheme/)  
+4. [Implementing Fourth‑Order Centered Differences](./4%20Implementing%20Fourth-Order%20Centered%20Differences/)  
+5. [Long‑Term Flow Behavior Analysis](./5%20Long-Term%20Flow%20Behavior%20Analysis/)  
+6. [Reverse Flow Direction Simulation](./6%20Reverse%20Flow%20Direction%20Simulation/)  
+7. [Simulation of a Single Cylinder with Inflow/Outflow Boundary Conditions](./7%20Simulation%20of%20a%20Single%20Cylinder%20with%20Inflow-Outflow%20Boundary%20Conditions/)  
 
 ## Compilation and Execution
 
