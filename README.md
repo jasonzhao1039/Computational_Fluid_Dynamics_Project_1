@@ -10,7 +10,7 @@ This project simulates fluid flow within a two-dimensional heat exchanger using 
 
 ## Sections
 
-1. [1 Baseline Simulation with Second‑Order Adams–Bashforth](./Baseline%20Simulation%20with%20Second-Order%20Adams-Bashforth/)  
+1. [Baseline Simulation with Second‑Order Adams–Bashforth](./1%20Baseline%20Simulation%20with%20Second-Order%20Adams-Bashforth/)  
 2. [2 Stability Analysis with Increased CFL](./Stability%20Analysis%20with%20Increased%20CFL/)  
 3. [3 Implementing a Third‑Order Runge–Kutta Scheme](./Implementing%20a%20Third-Order%20Runge-Kutta%20Scheme/)  
 4. [4 Implementing Fourth‑Order Centered Differences](./Implementing%20Fourth-Order%20Centered%20Differences/)  
