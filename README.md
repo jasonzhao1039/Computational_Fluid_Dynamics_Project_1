@@ -8,7 +8,7 @@ This project simulates fluid flow within a two-dimensional heat exchanger using 
   Full analytical report, divided into seven parts.  
 - Each section’s folder contains the relevant data and source code.
 
-## Sections
+## Files For Each Section
 
 1. [Baseline Simulation with Second‑Order Adams–Bashforth](./1%20Baseline%20Simulation%20with%20Second-Order%20Adams-Bashforth/)  
 2. [Stability Analysis with Increased CFL](./2%20Stability%20Analysis%20with%20Increased%20CFL/)  
