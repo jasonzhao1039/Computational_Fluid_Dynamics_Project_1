@@ -2,11 +2,6 @@
 
 This project simulates fluid flow within a two-dimensional heat exchanger using different numerical schemes (Adams–Bashforth, Runge–Kutta, and fourth‑order centered differences) to validate their impact on the results.
 
-## Report
-
-- **[Report.pdf](./Report.pdf)**  
-  Full analytical report, divided into seven parts.  
-- Each section’s folder contains the relevant data and source code.
 
 
 ## Compilation and Execution
@@ -31,6 +26,13 @@ If you are using python to generate the pgn files for the figures :
 ```bush
 python3 plot_py
 ```
+
+
+## Report
+
+- **[Report.pdf](./Report.pdf)**  
+  Full analytical report, divided into seven parts.  
+- Each section’s folder contains the relevant data and source code.
 
 
 ## Files For Each Section
