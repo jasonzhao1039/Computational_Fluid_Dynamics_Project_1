@@ -1,6 +1,6 @@
 # Computational Fluid Dynamics Simulation in a 2D Heat Exchanger
 
-This project simulates fluid flow within a two-dimensional heat exchanger using different numerical schemes (Adams–Bashforth, Runge–Kutta, and fourth‑order centered differences) to validate their impact on the results.
+This project simulates fluid flow within a two-dimensional heat exchanger using different numerical schemes (Adams–Bashforth, Runge–Kutta, and fourth‑order centered differences) and CFL number to validate their impact on the simulation results.
 
 
 
