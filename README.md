@@ -11,7 +11,7 @@ This project simulates fluid flow within a two-dimensional heat exchanger using 
 
 ## Compilation and Execution
 
-To compile the main solver:
+To compile the main solver **[2D_compressible.f90](./2D_compressible.f90)**:
 
 ```bash
 gfortran -O3 2D_compressible.f90
