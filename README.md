@@ -2,7 +2,7 @@
 
 This project simulates fluid flow within a two-dimensional heat exchanger using different numerical schemes (Adams–Bashforth, Runge–Kutta, and fourth‑order centered differences) to validate their impact on the results.
 
-## Project Structure
+## Report
 
 - **[Report.pdf](./Report.pdf)**  
   Full analytical report, divided into seven parts.  
